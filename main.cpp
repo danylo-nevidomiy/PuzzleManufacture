@@ -3,6 +3,7 @@
 #include <QApplication>
 
 // Comment from Zhenya
+//Comment from Danya
 
 int main(int argc, char *argv[])
 {
